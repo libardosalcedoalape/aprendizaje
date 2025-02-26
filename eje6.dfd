@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+74
+'señor cliente digite su nombre aqui el valor de la compra y su descuento'
+5
+1
+6
+nombre
+4
+1
+44
+'señor cliente digite el valor de la compra'
+5
+1
+6
+compra
+4
+1
+45
+'señor usuario digite el descuento que desea'
+5
+1
+9
+descuento
+6
+2
+9
+descuento
+20
+compra*descuento/100
+5
+total
+16
+compra-descuento
+4
+1
+54
+'señor', nombre,' el valor a pagar es:', total,'pesos'
+1
