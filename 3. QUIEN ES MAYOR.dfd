@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+87
+'Señor usuario digite primero la edad de su padre y posteriormente la edad de su madre'
+5
+1
+5
+EP,EM
+7
+0
+1
+5
+EP>EM
+6
+1
+3
+DIF
+5
+EM-EP
+4
+1
+51
+'SU MAMÁ ES MAYOR QUE SU PAPÁ POR ' , DIF,  ' AÑOS'
+13
+6
+1
+3
+DIF
+5
+EP-EM
+4
+1
+50
+'SU PAPÁ ES MAYOR QUE SU MAMÁ POR ' , DIF, ' AÑOS'
+13
+1

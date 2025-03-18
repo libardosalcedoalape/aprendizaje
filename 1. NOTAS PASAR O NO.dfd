@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+'Deposite las 3 notas de su semestre'
+5
+1
+8
+N1,N2,N3
+6
+3
+3
+N1F
+7
+N1*0.20
+3
+N2F
+7
+N2*0.60
+3
+N3F
+7
+N3*0.20
+6
+1
+2
+NF
+11
+N1F+N2F+N3F
+7
+0
+1
+6
+NF>3.5
+4
+1
+14
+NF, ' NO PASO'
+13
+4
+1
+11
+NF, ' PASO'
+13
+1
